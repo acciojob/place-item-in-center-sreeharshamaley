@@ -1,2 +1,9 @@
-
+.item-1{
+	display:flex;
+	justify-content:center;
+}
+.holder{
+	width:100vw;
+	height:100vh;
+}
 /* Your CSS Code here. */
