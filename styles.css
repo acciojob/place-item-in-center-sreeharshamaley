@@ -1,9 +1,15 @@
 .item-1{
 	display:flex;
 	justify-content:center;
+	width:100px;
+	height:100px;
+	background-color:red;
 }
 .holder{
+	display:flex;
 	width:100vw;
 	height:100vh;
+	justify-content: center; /* Centers content horizontally */
+    align-items: center; 
 }
 /* Your CSS Code here. */
